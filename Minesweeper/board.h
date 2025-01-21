@@ -7,7 +7,7 @@
 const int columns = 26;
 const int rows = 32;
 const int cellSize = 16;
-int bombs_amount = 10;
+int bombs_amount = {1}; // Al iniciar el juego se elige la cantidad 
 
 struct Cell
 {
