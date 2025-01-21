@@ -36,6 +36,7 @@ To run this project, you will need to install and configure SDL2 and a c++ compi
 
 ## 📊 Current Status
 Difficulty: Difficulty options enabled based on number of mines.
+
 Rendering: Smooth rendering of game objects using SDL2.
 
 
