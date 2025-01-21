@@ -21,7 +21,7 @@ To run this project, you will need to install and configure SDL2 and a c++ compi
    - Make sure you read the documentation on how to use this compiler.
 
 4. **Configure the Project**:
-   - Ensure the SDL2 headers and libraries are correctly set up in your development environment.
+   - Ensure the SDL2 headers and libraries are correctly set up in your development environment, such as the /include folders and the /lib/x64 folders. You must also include the main SDL folder to your environment variables.
    - Compile the project, making sure to link the SDL2 libraries.
    - using MinGW, you might run a command like:
 ```bash
