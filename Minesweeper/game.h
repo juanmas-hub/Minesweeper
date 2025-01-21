@@ -1,5 +1,4 @@
 #pragma once
-// estamos en game.h
 #include <iostream>
 #include "init.h"
 #include "board.h"
