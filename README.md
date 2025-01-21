@@ -8,7 +8,7 @@ This is a clone of the classic Minesweeper game developed in C++ with a graphica
 Minesweeper is a logic-based game where the objective is to clear a minefield without detonating any mines. This project replicates the classic game experience with a user-friendly and graphical interface.
 ## Installation
 
-To run this project, you will need to install and configure SDL2 and a c++ compiler. Here are the basic steps:
+To run this project, you will need to install and configure SDL2 and a C++ compiler. Here are the basic steps:
 
 1. **Install SDL2**:
    - Download SDL2 from the [official website](https://github.com/libsdl-org/SDL/releases/tag/release-2.30.11).
