@@ -27,6 +27,7 @@ To run this project, you will need to install and configure SDL2 and a C++ compi
 ```bash
    g++ -o my_project main.cpp -IC:/path/to/SDL2/include -LC:/path/to/SDL2/lib -lSDL2 -lSDL2_ttf
 ```
+   - Add to your project folder the arial.ttf font.  
 
 
 ## 🎮 Controls
