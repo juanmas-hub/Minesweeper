@@ -2,6 +2,10 @@
 # 🕹️Minesweeper in c++ with SDL2
 
 This is a clone of the classic Minesweeper game developed in C++ with a graphical interface using SDL2. The gameplay follows the traditional rules, offering a familiar and entertaining experience.
+![image](https://github.com/user-attachments/assets/84d6aab5-bbe6-4e21-8f79-4d8737c98d22)
+![image](https://github.com/user-attachments/assets/a6a4fd64-ff79-4f4f-b7b9-4475e14079d3)
+
+
 
 ## Project Description
 
